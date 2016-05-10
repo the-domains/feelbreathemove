@@ -1,7 +1,7 @@
 name: FeelBreatheMove
 favicon: null
 layout_spectrum: 0.29169778688810766
-typography_spectrum: 0.2744621681049466
+typography_spectrum: 0.62125
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5911510693840683
+  brandStrength: 0.5625
   lightness: 0.34318530024029315
   saturation: 0.5207303913775831
   rhythmicContrast: 0.7019004756584764
